@@ -5,7 +5,7 @@
       "theme": "basic-theme",
       "variables": {
         "primary-color": "blue",
-        "secondary-color": "red",
+        "secondary-color": "red"
       } 
     }
   ],
