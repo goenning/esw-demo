@@ -1,23 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 123,
-      "theme": "basic-theme",
-      "variables": {
-        "primary-color": "blue",
-        "secondary-color": "red"
-      } 
-    },
-    {
-      "id": "me",
-      "theme": "basic-theme",
-      "variables": {
-        "primary-color": "blue",
-        "secondary-color": "red"
-      } 
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "theme": "basic-theme",
+  "variables": {
+    "primary-color": "blue",
+    "secondary-color": "red"
+  } 
 }
