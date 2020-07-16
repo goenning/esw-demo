@@ -1,7 +1,9 @@
 {
-  "theme": "basic-theme",
-  "variables": {
-    "primary-color": "blue",
-    "secondary-color": "red"
+  "theme": {
+    "name": "basic-theme",
+    "variables": {
+      "primary-color": "blue",
+      "secondary-color": "red"
+    } 
   } 
 }
